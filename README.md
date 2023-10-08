@@ -34,7 +34,7 @@
     <img width=10>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="41" alt="mysql logo"/>
     <img width=10>
-    <img src="/MrRogerTag1345/Images/Arm_logo_blue_72LG.png" height="35" alt="arm logo"/>
+    <img src="/Images/Arm_logo_blue_72LG.png" height="35" alt="arm logo"/>
     <img width=10>
     
 </div>
