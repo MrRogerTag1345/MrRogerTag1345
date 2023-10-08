@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chetas</h1>
-<h3 align="center">3<sup>rd</sup> / 4<sup>th</sup> Year at Wilfrid Laurier University</h3>
+<h3 align="center"> 4<sup>th</sup> Year at Wilfrid Laurier University</h3>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MrRogerTag1345&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="164" alt="stats graph"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrRogerTag1345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="165" alt="languages graph"/>
 </div>
+
+###
+
+<h3 align="left">Organizations</h3>
+<p>
+  Currently associated with SRC-Hive for projects created with my High School companions. Where as,  CP322 Machine Learning is a Course related calaborative space. 
+</p>
 
 ###
 
