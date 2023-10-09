@@ -62,12 +62,8 @@
     <img width=10>
     <img src="https://skillicons.dev/icons?i=github" height="41" alt="github logo"/>
     <img width=10>
-
-<!--
-    // Still to Come.
     <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"/>
     <img width=10>
--->
     
 </div>
 
