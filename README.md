@@ -64,7 +64,7 @@
     <img width=10>
     <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"/>
     <img width=10>
-    <img src="https://skillicons.dev/icons?i=linux" height="41" alt="linux logo"/>
+    <img src="https://skillicons.dev/icons?i=gitlab" height="41" alt="gitlab logo"/>
     <img width=10>
     
 </div>
