@@ -10,7 +10,7 @@
 
 <h3 align="left">Organizations</h3>
 <p>
-  Currently associated with SRC-Hive for projects created with my High School companions. Where as,  CP322 Machine Learning is a Course related calaborative space. 
+  Currently associated with SRC-Hive for projects created with my High School companions. Where as, CP322 Machine Learning is a Course related calaborative space. 
 </p>
 
 ###
