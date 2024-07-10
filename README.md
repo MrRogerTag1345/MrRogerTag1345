@@ -32,6 +32,8 @@
     <img width=10>
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"/>
     <img width=10>
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"/>
+    <img width=10>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="41" alt="mysql logo"/>
     <img width=10>
     <img src="/Images/Arm_logo_blue_72LG.png" height="35" alt="arm logo"/>
@@ -65,6 +67,18 @@
     <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"/>
     <img width=10>
     <img src="https://skillicons.dev/icons?i=gitlab" height="41" alt="gitlab logo"/>
+    <img width=10>
+    <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="rbpi"/>
+    <img width=10>
+    <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows"/>
+    <img width=10>
+     <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell"/>
+    <img width=10>
+    <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple"/>
+    <img width=10>
+    <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion"/>
+    <img width=10>
+    <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"/>
     <img width=10>
     
 </div>
