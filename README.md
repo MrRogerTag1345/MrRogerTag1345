@@ -72,7 +72,7 @@
     <img width=10>
     <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows"/>
     <img width=10>
-     <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell"/>
+    <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell"/>
     <img width=10>
     <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple"/>
     <img width=10>
