@@ -80,6 +80,8 @@
     <img width=10>
     <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"/>
     <img width=10>
+    <img src="https://skillicons.dev/icons?i=django" height="40" alt="npm"/>
+    <img width=10>
     
 </div>
 
